@@ -1,0 +1,57 @@
+p {
+    font-family: Arial;
+    color: Cyan;
+    font-size: 40px
+  }
+  
+  h1{
+    color:maroon;
+  }
+  
+  .title{
+    color:teal;
+  }
+  
+  .uppercase{
+    text-transform: uppercase;
+  }
+  
+  .publish-time{
+    color:gray;
+    font-size:10px
+  }
+  
+  #article-title{
+    color: green;
+    font-family: cursive;
+    text-transform: capitalize;
+  }
+  
+  .cursive{
+    font-family: cursive;
+  }
+  
+  .capitalize{
+    text-transform: capitalize;
+  }
+  
+  h2.destination{
+    font-family: cursive;
+    color: yellow;
+    font-size: 30px
+  }
+  
+  .description h5{
+    color:teal;
+    font-size: 30px;
+  }
+  
+  h5{
+    color:rebeccapurple !important;
+    font-size: 5px !important;
+  }
+  
+  h5,
+  p{
+    font-family: Georgia;
+  }
